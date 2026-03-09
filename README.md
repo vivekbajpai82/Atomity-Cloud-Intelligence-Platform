@@ -269,6 +269,9 @@ The architecture supports it via CSS variables but it was intentionally skipped 
 
 ---
 
-# Author
+## Author
 
-Submission for **Atomity Frontend Engineering Internship Challenge**
+**Vivek Bajpai**
+
+Frontend Engineering Internship Challenge Submission  
+GitHub: https://github.com/vivekbajpai82
