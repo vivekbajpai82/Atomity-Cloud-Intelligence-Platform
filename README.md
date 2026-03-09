@@ -3,15 +3,15 @@
 ## Live Demo
 
 Netlify Deployment:
-**https://your-vercel-link.vercel.app**
+Live Demo:
+https://atomity-cloud-intelligence-platform.netlify.app
 
 GitHub Repository:
-**https://github.com/your-username/your-repo**
+https://github.com/vivekbajpai82/Atomity-Cloud-Intelligence-Platform
 
 ---
 
 ## About
----
 
 # Feature Chosen
 
